@@ -1,4 +1,4 @@
-# Zero to Hero ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ananthavijay/Zero-to-Hero)
+# Zero to Hero ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ananthavijay/Zero-to-Hero) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 This is a repo that contains C++ basics which will take you from Zero to Hero !
 
@@ -29,3 +29,4 @@ You can download Xcode from [developer.apple.com/technologies/tools.](https://de
 2. [Kamontat Chantrachirathumrong](https://github.com/kamontat)
 3. [Harshit Garg](https://github.com/mathagician)
 4. [Salil Cuncoliencar](https://github.com/salilbc)
+5. [Allen Joseph](https://github.com/AllenAJ)
