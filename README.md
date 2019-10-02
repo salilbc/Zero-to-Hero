@@ -27,4 +27,5 @@ You can download Xcode from [developer.apple.com/technologies/tools.](https://de
 # Contributors :
 1. [M.Anantha Vijay](https://github.com/Ananthavijay)
 2. [Kamontat Chantrachirathumrong](https://github.com/kamontat)
-3. [Salil Cuncoliencar](https://github.com/salilbc)
+3. [Harshit Garg](https://github.com/mathagician)
+4. [Salil Cuncoliencar](https://github.com/salilbc)
